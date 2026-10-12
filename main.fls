@@ -22,8 +22,60 @@ INPUT D:\Program Files (x86)\LaTeX\tex\latex\graphics-cfg\graphics.cfg
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\graphics-def\pdftex.def
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\graphics-def\pdftex.def
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\graphics-def\pdftex.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\biblatex.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\biblatex.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\generic\iftex\iftex.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\logreq\logreq.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\logreq\logreq.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\logreq\logreq.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\logreq\logreq.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\logreq\logreq.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\base\ifthen.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\base\ifthen.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\url\url.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\url\url.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-dm.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-dm.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-dm.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-compat.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-compat.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-compat.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\biblatex.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\biblatex.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\biblatex.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\bbx\authoryear.bbx
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\bbx\authoryear.bbx
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\bbx\authoryear.bbx
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\bbx\standard.bbx
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\cbx\authoryear.cbx
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\cbx\authoryear.cbx
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\cbx\authoryear.cbx
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\biblatex.cfg
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\biblatex.cfg
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\biblatex.cfg
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\l3kernel\expl3.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\l3kernel\expl3.sty
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\l3kernel\l3backend-pdftex.def
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\l3kernel\l3backend-pdftex.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-case-expl3.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT .\main.aux
 INPUT .\main.aux
 INPUT main.aux
@@ -36,16 +88,30 @@ INPUT D:\Program Files (x86)\LaTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\lbx\english.lbx
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\lbx\english.lbx
+OUTPUT main.bcf
+INPUT main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT .\main.bbl
+INPUT main.bbl
 INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmbx12.tfm
 OUTPUT main.pdf
 INPUT C:\Users\manue\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmti12.tfm
 INPUT main.aux
+INPUT main.run.xml
+OUTPUT main.run.xml
 INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
