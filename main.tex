@@ -14,6 +14,9 @@
 \maketitle
 \newpage
 
+\tableofcontents
+\newpage
+
 \section{Introducción}
 El análisis de videojuegos no debe basarse únicamente en las narrativas o en sus cualidades audiovisuales, sino más bien desde un sistema formado por reglas, acciones tanto del jugador como del mundo del juego y sus estructuras. Por lo tanto, un juego depende tanto de lo que intenta representar como de que le permite hacer, aprender y deducir al jugador a partir de las distintas interacciones. 
 
@@ -22,6 +25,20 @@ El enfoque lúdico en cambio se centra en la conexión entre la mecánica, la di
 \textit{Hollow Knight} \parencite{hollowknight2017} y \textit{Return of the Obra Dinn} \parencite{obradinn2018} ofrecen un contraste en cuanto a la forma en que estructuran las distintas actividades del jugador. En \textit{Hollow Knight}, el juego gira en torno al desplazamiento por un espacio interconectado propio del género al que este pertenece, el aprendizaje de los patrones de los enemigos, el combate y el desbloqueo de habilidades para abrir nuevos caminos o estilos de combate, mientras que los elementos del entorno también sirven para fomentar la interpretación de su mundo. En \textit{Return of the Obra Dinn}, el juego se basa mucho más firmemente en la observación, la recopilación de pruebas, el desarrollo de hipótesis, y el descubrimiento de las historias que se esconden tras el destino de la tripulación del barco. El avance en este último juego depende mucho más del aumento de conocimientos por parte del jugador. Por supuesto, existen similitudes entre ambos juegos, ya que ambos implican exploración, aprendizaje e interpretación.
 
 Este trabajo examina la relación entre los el diseño del sistema lúdico y la construcción ludoficcional, así como las formas de modificar algunos de sus componentes para generar experiencias lúdicas diferentes, al tiempo que se influye en la coherencia interna de cada juego. 
+
+\newpage
+\section{Análisis MDA de \textit{Hollow Knight}}
+\textit{Hollow Knight} es un videojuego de acción y aventura, más específicamente metroidvania en 2D que combina la exploración, el combate, la adquisición de habilidades y el descubrimiento del entorno en un mundo conectado por distintas instancias. Lo que hace interesante este juego desde el punto de visto del diseño no es la diversidad de mecánicas que utiliza el juego sino la forma en la que estas mecánicas afectan y estructuran las acciones del jugador.El proceso de exploración por ejemplo depende tanto de la capacidad del jugador para moverse como de la información que posea.
+\\ \\
+Este capítulo examina las principales mecánicas de \textit{Hollow Knight}, su relación con patrones de exploración, aprendizaje y gestión del riesgo, y las experiencias de descubrimiento, desafío, tensión y logro que pueden derivarse de ellas. 
+
+\subsection{Mecánicas}
+El movimiento forma la base de la exploración pero sus posibilidades se incrementan progresivamente con la adquisición de nuevas habilidades como el \textit{dash}, los saltos a la pared y los saltos dobles. De hecho estas habilidades cambian el conjunto de rutas posibles permitiendo superar las barreras que antes bloqueaban tu camino. Entonces el progreso no consiste solamente en mejorar la fuerza del personaje sino en cambiar su relación con el espacio. Una barrera que antes era inaccesible se convierte en una ruta alcanzable gracias a la habilidad adquirida, así estableciendo un vínculo entre la mejora del personaje y la posibilidad de la exploración.
+
+Además, el manejo del riesgo va más allá del combate mediante las consecuencias de la muerte. Cuando el personaje muere perderá todo su geo (dinero) y deja una sombra en el lugar donde murió. Para recuperar este recurso el jugador necesita regresar ahí y derrotar a la Sombra, de lo contrario otra muerte causará la pérdida de todo el geo que tenga. Esta regla vincula el fracaso con la localización y convierte el recorrido posterior a una derrota en una nueva situación de riesgo. La distancia hasta el último banco (punto de guardado) utilizado y las amenazas presentes en el camino pasan a influir en el coste de continuar explorando.
+
+Los bancos conectan estos sistemas proporcionando la regeneración de la salud, definir el punto de reaparición, guardar la partida y la posibilidad de modificar amuletos. Estos últimos proporcionan algunas habilidades especiales pero su equipamiento está restringido por el número de ranuras y de cuantos ``puntos'' cueste el amuleto, que el jugador puede conseguirlos ya sea explorando, combatiendo o comprándolos. Asu vez, la navegación está condicionada por la información que el jugador ha adquirido, los mapas deben obtenerse y completarse progresivamente, mientras que el jugador debe aprender a identificar donde está o ayudarse con un amuleto a forma de brújula. Así, tanto la preparación del equipo como el conocimiento espacial dependen de decisiones previas y del acceso a determinados recursos y lugares.
+
 
 \newpage
 \printbibliography[title={Referencias}]

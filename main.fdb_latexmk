@@ -1,19 +1,29 @@
 # Fdb version 4
-["biber main"] 1791835334.50236 "main.bcf" "main.bbl" "main" 1791835745.09244 0
+["biber main"] 1791835334.50236 "main.bcf" "main.bbl" "main" 1791923527.29141 0
   "bibliography.bib" 1791835333 351 9a6d6cdf383f5ebb53d08b3a779dbaea ""
-  "main.bcf" 1791835744 108743 4ae9d1f8400ace7addc946202b465430 "pdflatex"
+  "main.bcf" 1791923527 108743 4ae9d1f8400ace7addc946202b465430 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1791835743.96646 "d:/Cosas/Master/Game Desing/R1 Analizar mundos para crear otros/main.tex" "main.pdf" "main" 1791835745.09336 0
+["pdflatex"] 1791923526.25126 "d:/Cosas/Master/Game Desing/R1 Analizar mundos para crear otros/main.tex" "main.pdf" "main" 1791923527.29234 0
   "C:/Users/manue/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1791834687 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/manue/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1791833485 13395061 5c25dac2646f274b838a955822243285 ""
   "D:/Program Files (x86)/LaTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "D:/Program Files (x86)/LaTeX/fonts/tfm/public/cm/cmbxti10.tfm" 1136765053 1532 9162035f4e7176612125649e348e2195 ""
+  "D:/Program Files (x86)/LaTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
+  "D:/Program Files (x86)/LaTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "D:/Program Files (x86)/LaTeX/fonts/tfm/public/cm/cmmi8.tfm" 1136765053 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "D:/Program Files (x86)/LaTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "D:/Program Files (x86)/LaTeX/fonts/tfm/public/cm/cmr17.tfm" 1136765053 1292 296a67155bdbfc32aa9c636f21e91433 ""
+  "D:/Program Files (x86)/LaTeX/fonts/tfm/public/cm/cmr6.tfm" 1136765053 1300 b62933e007d01cfd073f79b963c01526 ""
+  "D:/Program Files (x86)/LaTeX/fonts/tfm/public/cm/cmr8.tfm" 1136765053 1292 21c1c5bfeaebccffdb478fd231a0997d ""
+  "D:/Program Files (x86)/LaTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "D:/Program Files (x86)/LaTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
+  "D:/Program Files (x86)/LaTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
   "D:/Program Files (x86)/LaTeX/fonts/tfm/public/cm/cmti12.tfm" 1136765053 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "D:/Program Files (x86)/LaTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
+  "D:/Program Files (x86)/LaTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb" 1247596667 36554 b67dc2cfa451409e100b3fcf5f506509 ""
   "D:/Program Files (x86)/LaTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "D:/Program Files (x86)/LaTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
   "D:/Program Files (x86)/LaTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247596667 36118 fad905eba93cff5bce1e185fe980a177 ""
@@ -52,15 +62,17 @@
   "D:/Program Files (x86)/LaTeX/tex/latex/logreq/logreq.def" 1280941015 1620 fb1c32b818f2058eca187e5c41dfae77 ""
   "D:/Program Files (x86)/LaTeX/tex/latex/logreq/logreq.sty" 1280941015 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "D:/Program Files (x86)/LaTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "d:/Cosas/Master/Game Desing/R1 Analizar mundos para crear otros/main.tex" 1791835743 2995 7676f179d236822d0426c53b2d901961 ""
-  "main.aux" 1791835744 627 d98cddd43bff354764f5ba5edbbc1d31 "pdflatex"
+  "d:/Cosas/Master/Game Desing/R1 Analizar mundos para crear otros/main.tex" 1791923525 6132 e95483d09c9ddeb6991402829f8f2b49 ""
+  "main.aux" 1791923527 859 6ed70b9b593fe8fc44527cbedaa25bb3 "pdflatex"
   "main.bbl" 1791835336 2819 ba0c834c10f45eea7dbdedcc8ed4bdf4 "biber main"
-  "main.run.xml" 1791835744 2313 9d203941543462b20d7108aaec7e370e "pdflatex"
-  "main.tex" 1791835743 2995 7676f179d236822d0426c53b2d901961 ""
+  "main.run.xml" 1791923527 2313 9d203941543462b20d7108aaec7e370e "pdflatex"
+  "main.tex" 1791923525 6132 e95483d09c9ddeb6991402829f8f2b49 ""
+  "main.toc" 1791923527 209 b249e70e07c10c6bb360628b47c6c64f "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
   "main.log"
   "main.pdf"
   "main.run.xml"
+  "main.toc"
   (rewritten before read)
