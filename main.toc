@@ -2,3 +2,8 @@
 \contentsline {section}{\numberline {2}Análisis MDA de \textit {Hollow Knight}}{4}{}%
 \contentsline {subsection}{\numberline {2.1}Mecánicas}{4}{}%
 \contentsline {subsection}{\numberline {2.2}Dinámicas}{5}{}%
+\contentsline {subsection}{\numberline {2.3}Estética}{6}{}%
+\contentsline {section}{\numberline {3}Análisis ludoficcional de \textit {Hollow Knight}}{7}{}%
+\contentsline {subsection}{\numberline {3.1}Dimensión material}{7}{}%
+\contentsline {subsection}{\numberline {3.2}Dimensión formal}{8}{}%
+\contentsline {subsection}{\numberline {3.3}Dimensión dramática}{9}{}%
