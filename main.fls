@@ -1,5 +1,5 @@
 PWD d:\Cosas\Master\Game Desing\R1 Analizar mundos para crear otros
-INPUT C:\Users\manue\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT C:\Users\manue\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
 INPUT d:\Cosas\Master\Game Desing\R1 Analizar mundos para crear otros\main.tex
 OUTPUT main.log
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\base\article.cls
@@ -7,7 +7,6 @@ INPUT D:\Program Files (x86)\LaTeX\tex\latex\base\article.cls
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\base\size12.clo
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\base\size12.clo
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\base\size12.clo
-INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\graphics\graphicx.sty
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\graphics\graphicx.sty
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\graphics\keyval.sty
@@ -19,9 +18,9 @@ INPUT D:\Program Files (x86)\LaTeX\tex\latex\graphics\trig.sty
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\graphics-cfg\graphics.cfg
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\graphics-cfg\graphics.cfg
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT D:\Program Files (x86)\LaTeX\tex\latex\graphics-def\pdftex.def
-INPUT D:\Program Files (x86)\LaTeX\tex\latex\graphics-def\pdftex.def
-INPUT D:\Program Files (x86)\LaTeX\tex\latex\graphics-def\pdftex.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\graphics-def\xetex.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\graphics-def\xetex.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\graphics-def\xetex.def
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\biblatex.sty
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\biblatex.sty
 INPUT D:\Program Files (x86)\LaTeX\tex\generic\pdftexcmds\pdftexcmds.sty
@@ -50,6 +49,10 @@ INPUT D:\Program Files (x86)\LaTeX\tex\latex\url\url.sty
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-dm.def
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-dm.def
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-dm.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-unicode.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-unicode.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-unicode.def
+INPUT D:\Program Files (x86)\LaTeX\tex\generic\unicode-data\UnicodeData.txt
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-compat.def
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-compat.def
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-compat.def
@@ -70,24 +73,25 @@ INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\biblatex.cfg
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\biblatex.cfg
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\l3kernel\expl3.sty
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\l3kernel\expl3.sty
-INPUT D:\Program Files (x86)\LaTeX\tex\latex\l3kernel\l3backend-pdftex.def
-INPUT D:\Program Files (x86)\LaTeX\tex\latex\l3kernel\l3backend-pdftex.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\l3kernel\l3backend-xetex.def
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\l3kernel\l3backend-xetex.def
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-case-expl3.sty
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\blx-case-expl3.sty
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\l3packages\xparse\xparse.sty
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\l3packages\xparse\xparse.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\fontspec\fontspec.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\fontspec\fontspec.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\fontspec\fontspec-xetex.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\base\fontenc.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\base\fontenc.sty
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\fontspec\fontspec.cfg
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\fontspec\fontspec.cfg
+INPUT D:\Program Files (x86)\LaTeX\tex\latex\fontspec\fontspec.cfg
 INPUT .\main.aux
 INPUT .\main.aux
 INPUT main.aux
 OUTPUT main.aux
-INPUT D:\Program Files (x86)\LaTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT D:\Program Files (x86)\LaTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT D:\Program Files (x86)\LaTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT D:\Program Files (x86)\LaTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT D:\Program Files (x86)\LaTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT D:\Program Files (x86)\LaTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT D:\Program Files (x86)\LaTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT D:\Program Files (x86)\LaTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT D:\Program Files (x86)\LaTeX\tex\latex\biblatex\lbx\english.lbx
@@ -97,40 +101,20 @@ INPUT .\main.bbl
 INPUT .\main.bbl
 INPUT .\main.bbl
 INPUT main.bbl
-INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmr12.tfm
-OUTPUT main.pdf
-INPUT C:\Users\manue\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmbx12.tfm
+OUTPUT main.xdv
 INPUT .\main.toc
 INPUT .\main.toc
 INPUT main.toc
-INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmbxti10.tfm
-INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmr8.tfm
-INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmmi12.tfm
 INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmmi8.tfm
 INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmmi6.tfm
 INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmsy6.tfm
-INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmti12.tfm
+INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmr6.tfm
 OUTPUT main.toc
-INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmbxti10.tfm
-INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT D:\Program Files (x86)\LaTeX\fonts\tfm\public\cm\cmbxti10.tfm
 INPUT main.aux
 INPUT main.run.xml
 OUTPUT main.run.xml
-INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
-INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmbxti10.pfb
-INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
-INPUT D:\Program Files (x86)\LaTeX\fonts\type1\public\amsfonts\cm\cmti12.pfb
