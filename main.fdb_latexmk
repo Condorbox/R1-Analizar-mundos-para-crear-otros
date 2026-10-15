@@ -1,16 +1,16 @@
 # Fdb version 4
-["biber main"] 1792097919.99103 "main.bcf" "main.bbl" "main" 1792097926.2642 0
-  "main.bcf" 1792097925 108605 58dffc7b5a46f1f39f4f93dea4c50beb "xelatex"
+["biber main"] 1792099384.06287 "main.bcf" "main.bbl" "main" 1792099390.23829 0
+  "main.bcf" 1792099389 108605 58dffc7b5a46f1f39f4f93dea4c50beb "xelatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1792097925.88463 "main.xdv" "main.pdf" "main" 1792097926.26931 0
-  "main.xdv" 1792097925 293024 83fc3b9cad7801b3959e0195c6692fea "xelatex"
+["xdvipdfmx"] 1792099389.82167 "main.xdv" "main.pdf" "main" 1792099390.2435 0
+  "main.xdv" 1792099389 271732 534c5f640cfb7ba8a62a938ef5a1fdfe "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1792097924.05143 "d:/Cosas/Master/Game Desing/R1 Analizar mundos para crear otros/main.tex" "main.xdv" "main" 1792097926.2646 0
+["xelatex"] 1792099388.03051 "d:/Cosas/Master/Game Desing/R1 Analizar mundos para crear otros/main.tex" "main.xdv" "main" 1792099390.23874 0
   "C:/Users/manue/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1792096945 27449800 1abd5934bb6a9e5de7b43e98c6bcb1ce ""
   "D:/Program Files (x86)/LaTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "D:/Program Files (x86)/LaTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -59,12 +59,13 @@
   "D:/Program Files (x86)/LaTeX/tex/latex/logreq/logreq.def" 1280941015 1620 fb1c32b818f2058eca187e5c41dfae77 ""
   "D:/Program Files (x86)/LaTeX/tex/latex/logreq/logreq.sty" 1280941015 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "D:/Program Files (x86)/LaTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "d:/Cosas/Master/Game Desing/R1 Analizar mundos para crear otros/main.tex" 1792097908 29279 952450141ebb271df2c81bdc163f054f ""
-  "main.aux" 1792097925 2378 4d2f10904741f9078477c2a491eaa848 "xelatex"
-  "main.bbl" 1792097922 486 76d65a242ec496c9b4361af646ff12cb "biber main"
-  "main.run.xml" 1792097925 2348 b640d1eb684dea903c080d939b8dff5f "xelatex"
-  "main.tex" 1792097908 29279 952450141ebb271df2c81bdc163f054f ""
-  "main.toc" 1792097925 1444 c31981c6534edbbc05e49073c7204235 "xelatex"
+  "Logo_blau_uoc.png" 1792098756 15273 bf96347d925caa923da7adf971c1da15 ""
+  "d:/Cosas/Master/Game Desing/R1 Analizar mundos para crear otros/main.tex" 1792099361 27500 255b596a4efe1040911f2d4fbf96433e ""
+  "main.aux" 1792099389 2375 8f0c40c603d02d41ae053d4f371839bc "xelatex"
+  "main.bbl" 1792099386 486 76d65a242ec496c9b4361af646ff12cb "biber main"
+  "main.run.xml" 1792099389 2348 b640d1eb684dea903c080d939b8dff5f "xelatex"
+  "main.tex" 1792099361 27500 255b596a4efe1040911f2d4fbf96433e ""
+  "main.toc" 1792099389 1441 cc7a7ddc43f7fe39d66db63bdc328295 "xelatex"
   (generated)
   "main.aux"
   "main.bcf"

@@ -1,19 +1,19 @@
-\contentsline {section}{\numberline {1}Análisis MDA de \textit {Hollow Knight}}{3}{}%
-\contentsline {subsection}{\numberline {1.1}Mecánicas}{3}{}%
-\contentsline {subsection}{\numberline {1.2}Dinámicas}{3}{}%
-\contentsline {subsection}{\numberline {1.3}Estética}{4}{}%
-\contentsline {section}{\numberline {2}Análisis ludoficcional de \textit {Hollow Knight}}{5}{}%
-\contentsline {subsection}{\numberline {2.1}Dimensión material}{5}{}%
-\contentsline {subsection}{\numberline {2.2}Dimensión formal}{5}{}%
-\contentsline {subsection}{\numberline {2.3}Dimensión dramática}{6}{}%
-\contentsline {section}{\numberline {3}Análisis MDA de \textit {Return of the Obra Dinn}}{7}{}%
-\contentsline {subsection}{\numberline {3.1}Mecánicas}{7}{}%
-\contentsline {subsection}{\numberline {3.2}Dinámicas}{8}{}%
-\contentsline {subsection}{\numberline {3.3}Estética}{8}{}%
-\contentsline {section}{\numberline {4}Análisis ludoficcional de \textit {Return of the Obra Dinn}}{9}{}%
-\contentsline {subsection}{\numberline {4.1}Dimensión material}{9}{}%
-\contentsline {subsection}{\numberline {4.2}Dimensión formal}{9}{}%
-\contentsline {subsection}{\numberline {4.3}Dimensión dramática}{10}{}%
-\contentsline {section}{\numberline {5}Propuestas de rediseño}{11}{}%
-\contentsline {subsection}{\numberline {5.1}Rediseño de \textit {Hollow Knight}}{11}{}%
-\contentsline {subsection}{\numberline {5.2}Rediseño de \textit {Return of the Obra Dinn}}{12}{}%
+\contentsline {section}{\numberline {1}Análisis MDA de \textit {Hollow Knight}}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Mecánicas}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Dinámicas}{2}{}%
+\contentsline {subsection}{\numberline {1.3}Estética}{3}{}%
+\contentsline {section}{\numberline {2}Análisis ludoficcional de \textit {Hollow Knight}}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Dimensión material}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Dimensión formal}{4}{}%
+\contentsline {subsection}{\numberline {2.3}Dimensión dramática}{5}{}%
+\contentsline {section}{\numberline {3}Análisis MDA de \textit {Return of the Obra Dinn}}{6}{}%
+\contentsline {subsection}{\numberline {3.1}Mecánicas}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Dinámicas}{6}{}%
+\contentsline {subsection}{\numberline {3.3}Estética}{7}{}%
+\contentsline {section}{\numberline {4}Análisis ludoficcional de \textit {Return of the Obra Dinn}}{7}{}%
+\contentsline {subsection}{\numberline {4.1}Dimensión material}{7}{}%
+\contentsline {subsection}{\numberline {4.2}Dimensión formal}{8}{}%
+\contentsline {subsection}{\numberline {4.3}Dimensión dramática}{9}{}%
+\contentsline {section}{\numberline {5}Propuestas de rediseño}{9}{}%
+\contentsline {subsection}{\numberline {5.1}Rediseño de \textit {Hollow Knight}}{9}{}%
+\contentsline {subsection}{\numberline {5.2}Rediseño de \textit {Return of the Obra Dinn}}{10}{}%
