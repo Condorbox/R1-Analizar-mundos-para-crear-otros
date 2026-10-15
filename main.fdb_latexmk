@@ -1,12 +1,11 @@
 # Fdb version 4
-["biber main"] 1791835334.50236 "main.bcf" "main.bbl" "main" 1792092790.36682 0
-  "bibliography.bib" 1791835333 351 9a6d6cdf383f5ebb53d08b3a779dbaea ""
-  "main.bcf" 1792092790 108743 4ae9d1f8400ace7addc946202b465430 "pdflatex"
+["biber main"] 1792095181.78337 "main.bcf" "main.bbl" "main" 1792096587.61887 0
+  "main.bcf" 1792096587 108605 58dffc7b5a46f1f39f4f93dea4c50beb "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1792092789.17118 "d:/Cosas/Master/Game Desing/R1 Analizar mundos para crear otros/main.tex" "main.pdf" "main" 1792092790.36773 0
+["pdflatex"] 1792096586.60645 "d:/Cosas/Master/Game Desing/R1 Analizar mundos para crear otros/main.tex" "main.pdf" "main" 1792096587.61969 0
   "C:/Users/manue/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1791834687 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/manue/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1791833485 13395061 5c25dac2646f274b838a955822243285 ""
   "D:/Program Files (x86)/LaTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -62,12 +61,12 @@
   "D:/Program Files (x86)/LaTeX/tex/latex/logreq/logreq.def" 1280941015 1620 fb1c32b818f2058eca187e5c41dfae77 ""
   "D:/Program Files (x86)/LaTeX/tex/latex/logreq/logreq.sty" 1280941015 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "D:/Program Files (x86)/LaTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "d:/Cosas/Master/Game Desing/R1 Analizar mundos para crear otros/main.tex" 1792092788 31629 899c9fbf43919d61bf21ecbf8c13d509 ""
-  "main.aux" 1792092790 2482 13a82577174a69df505404788399dd47 "pdflatex"
-  "main.bbl" 1791835336 2819 ba0c834c10f45eea7dbdedcc8ed4bdf4 "biber main"
-  "main.run.xml" 1792092790 2313 9d203941543462b20d7108aaec7e370e "pdflatex"
-  "main.tex" 1792092788 31629 899c9fbf43919d61bf21ecbf8c13d509 ""
-  "main.toc" 1792092790 1252 c41daccd4952eddac4083f1a988522cb "pdflatex"
+  "d:/Cosas/Master/Game Desing/R1 Analizar mundos para crear otros/main.tex" 1792096585 34711 c34d6f95e256f9a4d8f9da48624e4f95 ""
+  "main.aux" 1792096587 2383 54e0a1b215434a0088d1db99562029a8 "pdflatex"
+  "main.bbl" 1792095188 486 76d65a242ec496c9b4361af646ff12cb "biber main"
+  "main.run.xml" 1792096587 2313 9d203941543462b20d7108aaec7e370e "pdflatex"
+  "main.tex" 1792096585 34711 c34d6f95e256f9a4d8f9da48624e4f95 ""
+  "main.toc" 1792096587 1449 984c18f537a5de30c2e441cb1898ecea "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
