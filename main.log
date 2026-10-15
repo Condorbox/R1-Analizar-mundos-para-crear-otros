@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.12)  14 OCT 2026 21:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.12)  15 OCT 2026 19:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -355,7 +355,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [2] [3] [4] [5] [6] [7] [8] [9] [10] (main.aux)
+ [2] [3] [4] [5] [6] [7] [8] [9] [10] [11]
+Overfull \hbox (4.53807pt too wide) in paragraph at lines 111--111
+[]\OT1/cmr/bx/n/17.28 An^^Salisis lud-ofic-cional de \OT1/cmr/bx/it/17.28 Re-turn of the Obra
+ []
+
+[12] [13] [14] [15] (main.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-09-09>
@@ -373,9 +378,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  62i,6n,66p,1205b,1377s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <D:/Program Files (x86)/LaTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Program Files (x86)/LaTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Program Files (x86)/LaTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Program Files (x86)/LaTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/Program Files (x86)/LaTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (10 pages, 91970 bytes).
+Output written on main.pdf (15 pages, 108232 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
+ 76 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

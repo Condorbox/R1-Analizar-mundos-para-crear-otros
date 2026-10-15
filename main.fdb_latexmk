@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1791835334.50236 "main.bcf" "main.bbl" "main" 1792006780.99744 0
+["biber main"] 1791835334.50236 "main.bcf" "main.bbl" "main" 1792086393.35097 0
   "bibliography.bib" 1791835333 351 9a6d6cdf383f5ebb53d08b3a779dbaea ""
-  "main.bcf" 1792006780 108743 4ae9d1f8400ace7addc946202b465430 "pdflatex"
+  "main.bcf" 1792086393 108743 4ae9d1f8400ace7addc946202b465430 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1792006779.91374 "d:/Cosas/Master/Game Desing/R1 Analizar mundos para crear otros/main.tex" "main.pdf" "main" 1792006780.99833 0
+["pdflatex"] 1792086392.16864 "d:/Cosas/Master/Game Desing/R1 Analizar mundos para crear otros/main.tex" "main.pdf" "main" 1792086393.3519 0
   "C:/Users/manue/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1791834687 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/manue/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1791833485 13395061 5c25dac2646f274b838a955822243285 ""
   "D:/Program Files (x86)/LaTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -62,12 +62,12 @@
   "D:/Program Files (x86)/LaTeX/tex/latex/logreq/logreq.def" 1280941015 1620 fb1c32b818f2058eca187e5c41dfae77 ""
   "D:/Program Files (x86)/LaTeX/tex/latex/logreq/logreq.sty" 1280941015 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "D:/Program Files (x86)/LaTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "d:/Cosas/Master/Game Desing/R1 Analizar mundos para crear otros/main.tex" 1792006779 19172 431deb7c94d1f659fc3b3df5b4558f3e ""
-  "main.aux" 1792006780 1542 997c04e4d3a7b4953bcd5a3be0a9f3af "pdflatex"
+  "d:/Cosas/Master/Game Desing/R1 Analizar mundos para crear otros/main.tex" 1792086389 31667 fbdde6344e0c1003274533aa3f00bf1a ""
+  "main.aux" 1792086393 2482 13a82577174a69df505404788399dd47 "pdflatex"
   "main.bbl" 1791835336 2819 ba0c834c10f45eea7dbdedcc8ed4bdf4 "biber main"
-  "main.run.xml" 1792006780 2313 9d203941543462b20d7108aaec7e370e "pdflatex"
-  "main.tex" 1792006779 19172 431deb7c94d1f659fc3b3df5b4558f3e ""
-  "main.toc" 1792006780 642 e5b6822063c857397408660aaf6de8ff "pdflatex"
+  "main.run.xml" 1792086393 2313 9d203941543462b20d7108aaec7e370e "pdflatex"
+  "main.tex" 1792086389 31667 fbdde6344e0c1003274533aa3f00bf1a ""
+  "main.toc" 1792086393 1252 c41daccd4952eddac4083f1a988522cb "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
